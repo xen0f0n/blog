@@ -1,1 +1,1 @@
-Sitemap: https://xen0f0n.github.io/blog/sitemap.xml
+Sitemap: https://xen0f0n.github.io/sitemap.xml
