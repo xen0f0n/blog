@@ -1,11 +1,10 @@
 ---
+# toc: true
+layout: post
 keywords: telegram bot, heroku, python
 title: Deploying a Telegram Bot on Heroku to auto-post stoic quotes in a Telegram Channel
-toc: false 
-badges: true
 comments: true
-categories: [markdown]
-layout: post
+# categories: [markdown]
 hide: false
 ---
 

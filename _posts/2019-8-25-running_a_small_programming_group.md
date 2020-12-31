@@ -1,8 +1,9 @@
 ---
 toc: true
 layout: post
+keywords: ieee, programming, python
 title: My experience running a small programming group for almost a year
-categories: [ieee, programming, python]
+# categories: [ieee, programming, python]
 hide: false
 ---
 
